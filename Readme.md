@@ -12,3 +12,5 @@ Dirty
 ------ Any changes that are not staged will be in dirty state
 
 
+
+Another line for - after first commit
